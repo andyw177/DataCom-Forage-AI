@@ -24,3 +24,4 @@ This is a greenfield Node + React implementation of the Task 2 Kudos system.
 - Use the "Signed in as" control in the UI to switch between a regular employee and an admin.
 - Data is stored in memory for this exercise, so restarting the server resets the sample data.
 
+https://github.com/andyw177/DataCom-Forage-AI
