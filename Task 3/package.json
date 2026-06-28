@@ -1,0 +1,13 @@
+{
+  "name": "task3-presentation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build-ppt": "node generate-presentation.mjs"
+  },
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
+
